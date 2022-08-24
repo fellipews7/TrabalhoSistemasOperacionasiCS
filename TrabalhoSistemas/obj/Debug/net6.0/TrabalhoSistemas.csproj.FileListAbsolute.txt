@@ -1,0 +1,15 @@
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\bin\Debug\net6.0\TrabalhoSistemas.exe
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\bin\Debug\net6.0\TrabalhoSistemas.deps.json
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\bin\Debug\net6.0\TrabalhoSistemas.runtimeconfig.json
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\bin\Debug\net6.0\TrabalhoSistemas.dll
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\bin\Debug\net6.0\TrabalhoSistemas.pdb
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\obj\Debug\net6.0\TrabalhoSistemas.csproj.AssemblyReference.cache
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\obj\Debug\net6.0\TrabalhoSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\obj\Debug\net6.0\TrabalhoSistemas.AssemblyInfoInputs.cache
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\obj\Debug\net6.0\TrabalhoSistemas.AssemblyInfo.cs
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\obj\Debug\net6.0\TrabalhoSistemas.csproj.CoreCompileInputs.cache
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\obj\Debug\net6.0\TrabalhoSistemas.dll
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\obj\Debug\net6.0\refint\TrabalhoSistemas.dll
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\obj\Debug\net6.0\TrabalhoSistemas.pdb
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\obj\Debug\net6.0\TrabalhoSistemas.genruntimeconfig.cache
+C:\Users\lipew\OneDrive\Área de Trabalho\Univille\TrabalhoSistemas\TrabalhoSistemas\obj\Debug\net6.0\ref\TrabalhoSistemas.dll
